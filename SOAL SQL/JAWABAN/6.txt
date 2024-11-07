@@ -1,0 +1,1 @@
+SELECT nama, jurusan FROM mahasiswa WHERE tanggal_lahir > '2000-01-01';

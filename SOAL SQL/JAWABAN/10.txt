@@ -1,0 +1,1 @@
+DELETE FROM mahasiswa WHERE nim = '0076081661';

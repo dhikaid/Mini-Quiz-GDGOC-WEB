@@ -1,0 +1,1 @@
+SELECT nama, nim FROM mahasiswa WHERE jurusan = 'Teknik Informatika';

@@ -1,0 +1,1 @@
+SELECT jurusan, COUNT(*) AS jumlah_mahasiswa FROM mahasiswa GROUP BY jurusan ORDER BY jumlah_mahasiswa DESC LIMIT 3;

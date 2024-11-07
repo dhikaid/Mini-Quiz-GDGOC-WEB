@@ -1,0 +1,1 @@
+UPDATE mahasiswa SET alamat = 'Jl. Merdeka No. 123' WHERE nama = 'Asep';

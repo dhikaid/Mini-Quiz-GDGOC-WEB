@@ -1,0 +1,1 @@
+SELECT nama, tanggal_lahir FROM mahasiswa WHERE jurusan = 'Sistem Informasi' OR jurusan = 'Teknik Elektro' ORDER BY tanggal_lahir ASC;

@@ -1,0 +1,1 @@
+Tampilkan nama dan jurusan mahasiswa yang lahir setelah tanggal 1 Januari 2000.

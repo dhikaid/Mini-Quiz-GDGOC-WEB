@@ -1,0 +1,1 @@
+Tampilkan nama dan tanggal lahir mahasiswa yang jurusannya Sistem Informasi atau Teknik Elektro, diurutkan berdasarkan tanggal lahir secara ascending.

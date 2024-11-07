@@ -1,0 +1,1 @@
+Tampilkan nama dan NIM mahasiswa jurusan Teknik Informatika.
