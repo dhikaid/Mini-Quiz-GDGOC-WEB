@@ -1,0 +1,4 @@
+/* Tambahkan efek hover pada link agar warna teks berubah menjadi merah */
+a:hover {
+  color: red;
+}

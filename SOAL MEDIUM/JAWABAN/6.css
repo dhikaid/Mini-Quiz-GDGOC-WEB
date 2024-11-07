@@ -1,0 +1,4 @@
+/* Tambahkan border 2px berwarna hijau pada kotak ini */
+div {
+  border: 2px solid green;
+}

@@ -1,0 +1,5 @@
+/* Ubah warna latar belakang button menjadi oranye dan warna teks menjadi putih */
+button {
+  background-color: orange;
+  color: white;
+}

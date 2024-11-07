@@ -1,0 +1,9 @@
+/* Ubah warna button menjadi hijau, ukuran font menjadi 18px, dan tambahkan efek hover warna biru muda */
+button {
+  background-color: green;
+  font-size: 18px;
+  color: white;
+}
+button:hover {
+  background-color: lightblue;
+}
